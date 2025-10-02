@@ -1,149 +1,70 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Technical Lead at <a href="https://fliki.ai/">Fliki.AI
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<h1 align="center">Hi 👋, I'm Waqas Khan</h1>
+<h3 align="center">Data Science Student at Gomal University, Dera Ismail Khan</h3>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
-<a href="https://trendshift.io/developers/2235" target="_blank"><img src="https://trendshift.io/api/badge/developers/2235" alt="anmol098 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-
-### 📫 Like to meet me?
-
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
-
-<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
-
-👇 Hit in your console or terminal to connect with me.
-
-```bash
-npx anmol
-```
-**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const anmol = {
-    pronouns: "He" | "Him",
-    code: ["TypeScript", "Javascript", "Python", "Dart"],
-    askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Sass", "Tailwind", "Bootstrap"],
-            uiLibraries: ["Material UI", "Ant Design", "Chakra UI"],
-        },
-        backEnd: {
-            js: ["Node", "Express", "NestJS"],
-            python: ["Flask"],
-        },
-        mobileApp: {
-            crossPlatform: ["Flutter"],
-        },
-        devOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
-        cloudServices: {
-            aws: ["AWS Fargate", "EC2", "S3", "Lambda", "CloudWatch", "RDS"],
-        },
-        databases: ["PostgreSQL", "MongoDB", "SQLite", "Firebase Realtime DB", "redis"],
-        misc: ["Socket.IO", "REST APIs", "WebSockets", "Cloud Functions"],
-        generativeAI: ["GPT", "Vectorization"],
-    },
-    architecture: {
-        frontEnd: ["SPA", "SSR"],
-        backEnd: ["microservices", "monolithic", "serverless"],
-        devOps: ["CloudFormation", "Serverless Framework"],
-        databases: ["Relational", "NoSQL", "In-memory"],
-    },
-    currentFocus: "Leading a way in generative AI innovation",
-    funFact: "I can debug faster with a coffee in hand!"
-};
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C901%20hrs%2051%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-750-blue)
+### 🌟 About Me  
+- 🎓 Currently studying **Data Science at Gomal University**  
+- 📊 Passionate about **Machine Learning, Data Analysis & AI**  
+- 💡 Exploring **Deep Learning, NLP, and Computer Vision**  
+- 🌱 Learning every day to solve **real-world data problems**  
+- 💬 Ask me about **Python, Pandas, Numpy, Matplotlib, Seaborn**  
+- 📫 Reach me: **waqaskhan@example.com**  
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.6%20million%20lines%20of%20code-blue)
+---
 
-**🐱 My GitHub Data** 
+### 🚀 Skills & Tools
+<p align="left"> 
+  <img src="https://img.icons8.com/color/48/000000/python.png"/> 
+  <img src="https://img.icons8.com/color/48/000000/pandas.png"/>
+  <img src="https://img.icons8.com/color/48/000000/numpy.png"/>
+  <img src="https://img.icons8.com/color/48/000000/matplotlib.png"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png"/> 
+  <img src="https://img.icons8.com/color/48/000000/github.png"/> 
+  <img src="https://img.icons8.com/color/48/000000/jupyter.png"/> 
+</p>
 
-> 📦 357.4 kB Used in GitHub's Storage 
- > 
-> 🏆 687 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 25 Public Repositories 
- > 
-> 🔑 32 Private Repositories 
- > 
-**I'm a Night 🦉** 
+---
 
-```text
-🌞 Morning                1204 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-🌆 Daytime                4025 commits        █████████░░░░░░░░░░░░░░░░   35.13 % 
-🌃 Evening                3608 commits        ████████░░░░░░░░░░░░░░░░░   31.49 % 
-🌙 Night                  2622 commits        ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
-```
-📅 **I'm Most Productive on Sunday** 
+### 📚 What We Learn in Data Science  
+- ✅ **Mathematics & Statistics** (Probability, Linear Algebra, Calculus)  
+- ✅ **Data Cleaning & Preprocessing**  
+- ✅ **Exploratory Data Analysis (EDA)**  
+- ✅ **Data Visualization** (Matplotlib, Seaborn, Plotly)  
+- ✅ **Machine Learning** (Regression, Classification, Clustering)  
+- ✅ **Deep Learning** (Neural Networks, CNNs, RNNs)  
+- ✅ **NLP (Natural Language Processing)**  
+- ✅ **Big Data Tools** (Hadoop, Spark, SQL, NoSQL)  
+- ✅ **Cloud & Deployment** (AWS, Docker, Streamlit)  
+- ✅ **Real-World Projects** (Prediction Models, Recommender Systems, etc.)  
 
-```text
-Monday                   1265 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-Tuesday                  1559 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-Wednesday                1936 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-Thursday                 1224 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-Friday                   1126 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-Saturday                 1613 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Sunday                   2736 commits        ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
-```
+---
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=waqaskhan&show_icons=true&theme=radical" alt="Waqas Khan Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqaskhan&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+</p>
 
-📊 **This Week I Spent My Time On** 
+---
 
-```text
-🕑︎ Time Zone: Asia/Kolkata
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=waqaskhan&theme=dracula&margin-w=15&margin-h=15"/>
+</p>
 
-💬 Programming Languages: 
-TypeScript               23 hrs 49 mins      ██████████████████░░░░░░░   71.09 % 
-MDX                      5 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-JSON                     1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-JavaScript               1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-.env file                20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+---
 
-🔥 Editors: 
-WebStorm                 25 hrs 9 mins       ███████████████████░░░░░░   75.11 % 
-VS Code                  8 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
-DataGrip                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+### 🔗 Connect With Me  
+<p align="left">
+  <a href="https://www.linkedin.com" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://twitter.com" target="blank"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
+  <a href="mailto:waqaskhan@example.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
+</p>
 
-💻 Operating System: 
-Mac                      33 hrs 30 mins      █████████████████████████   100.00 % 
-```
+---
 
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               33 repos            █████████░░░░░░░░░░░░░░░░   37.50 % 
-TypeScript               15 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-Dart                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-```
-
-
-
-
- Last Updated on 01/10/2025 00:40:26 UTC
-<!--END_SECTION:waka-->
-
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
-
-NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+✨ *“Data is the new oil, and I want to refine it into knowledge.”* ✨
