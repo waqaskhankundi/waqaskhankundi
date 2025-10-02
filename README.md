@@ -19,7 +19,7 @@
 - 📊 Love to play with **Data, Visualization & Machine Learning**  
 - 🌱 Exploring **Deep Learning & Big Data**  
 - 💡 Goal: To become a **Data Scientist who solves real-world problems**  
-- 📫 Reach me at: **waqaskhan@example.com**  
+- 📫 Reach me at: **waqaskhankundi01@example.com**  
 
 ---
 
