@@ -7,7 +7,7 @@
 <h3 align="center">🚀 Data Science Student @ Gomal University, Dera Ismail Khan</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74C91&center=true&width=435&lines=Data+Science+Student;Machine+Learning+Explorer;Deep+Learning+Enthusiast;Future+AI+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74C91&center=true&width=435&lines=Data+Science+Student;Machine+Learning+Explorer;Deep+Learning+Enthusiast;Future+AI+Engineer;Aspiring+Data+Scientist" alt="Typing SVG" />
 </p>
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
