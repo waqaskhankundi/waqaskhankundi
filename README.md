@@ -85,28 +85,6 @@
 ---
 
 
-gantt
-    dateFormat  YYYY-MM-DD
-    title 🚀 Data Science Projects Timeline
-
-    section Beginner
-    📊 Student Performance Analysis     :done,    des1, 2025-01-01, 15d
-    🌦 Weather Data Analysis            :active,  des2, 2025-02-01, 20d
-
-    section Intermediate
-    🏠 House Price Prediction           :des3, 2025-03-01, 25d
-    💳 Credit Card Fraud Detection      :des4, 2025-04-01, 30d
-
-    section Advanced
-    🤖 Chatbot with NLP                 :des5, 2025-05-01, 25d
-    🩺 Medical Image Classification     :des6, 2025-06-01, 40d
-
-    section Expert
-    🌍 Sentiment Analysis (Twitter)     :des7, 2025-07-01, 30d
-    📡 Big Data Pipeline (Spark+Hadoop) :des8, 2025-08-01, 45d
-
-
-
 ## 📌 Visual Data Science Roadmap  
 
 ```mermaid
